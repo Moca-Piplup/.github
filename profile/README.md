@@ -1,15 +1,14 @@
-<h1 align="center">Hi, I'm Moca 👋</h1>
+<h1 align="center">こんにちは、Moca です 👋</h1>
 
 <p align="center">
-Web developer (frontend / CMS) who builds small tools for everyday life —<br/>
-Windows widgets, a self-hosted household app on a Raspberry Pi, and image-classification tools.
+暮らしの中で使う小さなツールを作っています —<br/>
+Windows ウィジェット、Raspberry Pi で自宅運用している家計簿アプリ、画像分類ツールなど。
 </p>
 
 ---
 
 ### 🧑‍💻 About me
 
-- 🌐 仕事では Web フロントエンド（HTML / CSS / JavaScript）と CMS（Movable Type）を中心に開発・ドキュメント整備をしています
 - 🏠 個人では「自分と家族が毎日使うもの」を作るのが好きです。Raspberry Pi 5 の自宅サーバーで家計簿アプリを運用中
 - 🪟 Windows 11 のウィジェットや Rainmeter で、デスクトップを自分好みにするツールも作っています
 - 🗣️ 日本語 / English
@@ -31,7 +30,6 @@ Windows widgets, a self-hosted household app on a Raspberry Pi, and image-classi
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Movable Type](https://img.shields.io/badge/Movable_Type-CMS-1a1a1a)
 
 **Infra / Tools**<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
